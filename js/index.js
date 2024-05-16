@@ -2,54 +2,54 @@ var Quotes = [
   {
     quoteText: "“Be yourself; everyone else is already taken.”",
     quoteAuthor: "― Oscar Wilde",
-    authorImg: "oscar.jpg",
+    authorImg: "images/oscar.jpg",
   },
 
   {
     quoteText: "“A room without books is like a body without a soul.”",
     quoteAuthor: "― Marcus Tullius Cicero",
-    authorImg: "marcus.jpg",
+    authorImg: "images/marcus.jpg",
   },
   {
     quoteText:
       "“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”",
     quoteAuthor: "― Bernard M. Baruch",
-    authorImg: "Bernard.jpg",
+    authorImg: "images/Bernard.jpg",
   },
   {
     quoteText:
       "“As he read, I fell in love the way you fall asleep: slowly, and then all at once.”",
     quoteAuthor: "― John Green",
-    authorImg: "John.jpg",
+    authorImg: "images/John.jpg",
   },
   {
     quoteText: "“If you tell the truth, you don't have to remember anything.”",
     quoteAuthor: "― Mark Twain",
-    authorImg: "mark.jpg",
+    authorImg: "images/mark.jpg",
   },
   {
     quoteText: "“You only live once, but if you do it right, once is enough.”",
     quoteAuthor: "― Mae West",
-    authorImg: "Mae.jpg",
+    authorImg: "images/Mae.jpg",
   },
   {
     quoteText: "“It does not do to dwell on dreams and forget to live.”",
     quoteAuthor: "― J.K. Rowling,",
-    authorImg: "J.K.jpg",
+    authorImg: "images/J.K.jpg",
   },
 
   {
     quoteText:
       "“The fool doth think he is wise, but the wise man knows himself to be a fool.”",
     quoteAuthor: "― William Shakespeare",
-    authorImg: "William.jpg",
+    authorImg: "images/William.jpg",
   },
 
   {
     quoteText:
       "“It is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it.”",
     quoteAuthor: "― Maurice Switzer",
-    authorImg: "2868190._UX200_CR0,37,200,200_.jpg",
+    authorImg: "images/2868190._UX200_CR0,37,200,200_.jpg",
   },
 ];
 
