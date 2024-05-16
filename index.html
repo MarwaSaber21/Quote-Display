@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet" />
+
+    <!-----font family----->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Freeman&family=Oswald:wght@200..700&family=Teachers:ital,wght@0,400..800;1,400..800&display=swap"
+        rel="stylesheet">
+
+    <title>Document</title>
+</head>
+
+<body>
+    <section class="my-quote">
+        <div class="container text-center py-5 ">
+            <div class="col-md-12 py-3">
+                <h1 class="my-font">Quote of the Day
+                </h1>
+                <p class="my-p py-3">Press the button below to recieve a random quote!</p>
+
+                <button onclick="displayQuote()" class="rounded-pill">New Quote</button>
+
+                <div class="display pt-5 d-flex justify-content-evenly  ">
+                    <div class="img">
+                        <img id="myImg" src="" width="100" class=" " alt="">
+
+                    </div>
+                    <div class="par text-center">
+                        <p id="quote"></p>
+                        <p id="author"></p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="js/index.js"></script>
+</body>
+
+</html>
